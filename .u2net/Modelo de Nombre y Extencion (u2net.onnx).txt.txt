@@ -1,0 +1,3 @@
+Pgar el Modelo de Nombre y Extención: (u2net.onnx) 
+Dentro del Diectorio Raiz del Usuario donde se Utilizara: En Mi Caso es: (C:\Users\Tigre)
+Quedandome de este Modo; (C:\Users\Tigre\.u2net) y ya con el Modelo: (C:\Users\Tigre\.u2net\u2net.onnx)
